@@ -146,6 +146,9 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+app/app-env/
+charts/chart/
+charts/charts/
 
 # Spyder project settings
 .spyderproject
@@ -218,5 +221,4 @@ $RECYCLE.BIN/
 
 # Manual additions
 *.png
-app/app-env
-charts/chart
+
