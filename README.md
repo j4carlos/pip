@@ -9,7 +9,7 @@ python3 main.py
 
 # App Project
 
-````sh
+```sh
 git clone
 cd app
 source app-env/bin/activaate
