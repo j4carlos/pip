@@ -149,6 +149,7 @@ venv.bak/
 app/app-env/
 charts/chart/
 charts/charts/
+web-servers/ws/
 
 # Spyder project settings
 .spyderproject
