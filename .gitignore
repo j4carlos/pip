@@ -218,5 +218,11 @@ $RECYCLE.BIN/
 
 # Manual additions
 *.png
-.app-env/
-.chart/
+app/app-env/bin/python
+app/app-env/bin/python3
+app/app-env/bin/python3.10
+app/app-env/lib64
+charts/chart/bin/python
+charts/chart/bin/python3
+charts/chart/bin/python3.10
+charts/chart/lib64
