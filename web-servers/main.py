@@ -12,9 +12,6 @@ def get_list():
 def get_list():
     return """
     <h1>Hola Mundo!</h1>
-    <video  width="640" height="360" controls>
-        <source src="https://i.imgur.com/B6QKKcv.mp4" type="video/mp4">
-    </video>
     """
     #{'name': 'Carlos'}
 
