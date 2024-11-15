@@ -166,7 +166,6 @@ def generate_bubble(continent,labels,values):
               circ = plt.Circle(
                   self.bubbles[i, :2], self.bubbles[i, 2], color=colors[i])
               ax.add_patch(circ)
-              
               ax.text(*self.bubbles[i, :2], labels[i],
                       horizontalalignment='center', verticalalignment='center')
 
